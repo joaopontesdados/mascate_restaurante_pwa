@@ -1,0 +1,52 @@
+{
+    "name": "Prologue",
+    "short_name": "Prologue",
+ 
+    "icons": [
+      {
+        "src": "img/icon_128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon_144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon_152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon_167.png",
+        "sizes": "167x167",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon_180.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon_192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "img/icon_256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#31506F",
+    "theme_color": "#4D5360"
+  }
